@@ -27,4 +27,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue se enc
 
 - **Natasha L. (@na2kstudies)** - _Desenvolvedora e Criadora de Conteúdo_
 
-<p align="center">SUNLUNASKY</p>
+ <p align="center">
+      <a href="https://www.instagram.com/sunlunasky/"><img width="20%" src="/assets/gatitas.png"></a>
+</p>
