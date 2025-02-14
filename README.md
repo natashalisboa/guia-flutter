@@ -3,7 +3,9 @@
 <p>Criei este repositório para compartilhar formas de aprender Flutter, reunindo informações essenciais sobre o framework, a linguagem Dart, assim como cursos, artigos e recursos úteis para quem quer começar ou se aprofundar no desenvolvimento com Flutter.</p>
 
 ### Cursos
-Título + Link: Breve Descrição
+- Youtube | [Deivid Willyan | Flutter](https://www.youtube.com/@FlutterCursos): Diversos assuntos do mundo Flutter, Dart e Arquitetura, cursos introdutórios até avançados e de arquitetura, voltada para formar profissionais altamente competentes. 
+- Udemy | [Aprenda Flutter e Desenvolva Apps Para Android e IOS](https://www.udemy.com/course/curso-flutter):
+- Udemy | [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/):
 
 ### Configurando o Ambiente
 1. [Instalação]
