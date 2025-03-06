@@ -11,7 +11,7 @@
 1. [Instalação]
 
 ### Meus textos
-1. [Variáveis]
+1. [O que é flutter?](https://na2kstudies.substack.com/p/o-que-e-flutter)
 
 ## Como Contribuir
 
