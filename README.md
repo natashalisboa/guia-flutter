@@ -11,7 +11,8 @@
 1. [Instalação]
 
 ### Meus textos
-1. [O que é flutter?](https://na2kstudies.substack.com/p/o-que-e-flutter)
+1. [O que é Flutter?](https://na2kstudies.medium.com/o-que-%C3%A9-flutter-b262047689bd)
+2. [O que é Dart?](https://na2kstudies.medium.com/o-que-%C3%A9-dart-d0f4e5537614)
 
 ## Como Contribuir
 
