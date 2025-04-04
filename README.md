@@ -1,3 +1,5 @@
+<samp>
+
 # Guia Flutter
 
 <p>Criei este repositório para compartilhar formas de aprender Flutter, reunindo informações essenciais sobre o framework, a linguagem Dart, assim como cursos, artigos e recursos úteis para quem quer começar ou se aprofundar no desenvolvimento com Flutter.</p>
@@ -31,3 +33,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue se enc
  <p align="center">
       <a href="https://www.instagram.com/sunlunasky/"><img width="20%" src="/assets/gatitas.png"></a>
 </p>
+</samp>
